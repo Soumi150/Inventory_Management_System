@@ -1,5 +1,5 @@
 # Inventory_Management_System
-An inventory management system built with python and json.
+An inventory management system built with python which can be used to manage product stocks and operations in small scale shops.
 ## Overview
 This project is divided into 2 files:  
 **1.Manage_products.ipynb:**  
